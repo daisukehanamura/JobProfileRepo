@@ -2,19 +2,18 @@
 
 |key|value|
 |----|----|
-|Name|HanamaruDell|
-|Birth(Age)|1995/04/17|
-|Family|既婚・子なし|
-|Location|神奈川県|
+|Name|dellgreen|
+|Birth(Age)|29|
+|Location|千葉県|
 |Education|地方駅弁の情報系学部|
 
 ## 経験技術
 **サーバサイド技術**
 * Java(Struts,iBatis)：1年
-* Java(SpringBoot)：3年
+* Java(SpringBoot)：4年
 
 **フロントサイド技術**
-* JavaScript：3年
+* JavaScript(jQuery)：4年
 * html/CSS/BootStrap/Tymeleaf：3年
 
 **DBMS**

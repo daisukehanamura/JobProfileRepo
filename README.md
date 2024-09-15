@@ -9,17 +9,31 @@
 
 ## 経験技術
 **サーバサイド技術**
-* Java(Struts,iBatis)
-* Java(SpringBoot)
+* Java
+  * ~17 
+  * Struts
+  * SpringBoot
+  * Gradle
 
 **フロントサイド技術**
-* JavaScript(jQuery、TypeScript、React)
-* html/CSS/Thymeleaf
+* JavaScript
+  * jQuery
+  * TypeScript
+  * React
+  * Node.js
+* HTML
+  * Thymeleaf
+  * Jade
+* CSS
 
 **DBMS**
 * Oracle
 * SQLSever
 * PosgreSQL
+
+**その他**
+* VBA
+* Python
 
 ### 保有資格
 * 基本情報技術者試験

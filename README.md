@@ -32,8 +32,9 @@
 * PosgreSQL
 
 **その他**
-* VBA
+* Docker
 * Python
+* VBA
 
 ### 保有資格
 * 基本情報技術者試験

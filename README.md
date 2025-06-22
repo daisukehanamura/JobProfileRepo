@@ -3,7 +3,7 @@
 |key|value|
 |----|----|
 |Name|dellgreen|
-|Birth(Age)|29|
+|Birth|1995|
 |Location|千葉県|
 |Education|地方駅弁の情報系学部|
 
@@ -12,15 +12,15 @@
 * Java
   * ~17 
   * Struts
-  * SpringBoot
+  * SpringFramework
   * Gradle
+* Node.js
 
 **フロントサイド技術**
 * JavaScript
   * jQuery
   * TypeScript
   * React
-  * Node.js
 * HTML
   * Thymeleaf
   * Jade

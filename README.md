@@ -2,7 +2,6 @@
 
 |key|value|
 |----|----|
-|Name|dellgreen|
 |Birth|1995|
 |Location|千葉県|
 |Education|地方駅弁の情報系学部|

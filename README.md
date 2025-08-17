@@ -1,45 +1,39 @@
+# DellGreenの職務履歴書
+## 概要
+- Sier企業にて、toB向けのパッケージ製品の製品開発、SIを担当
+  - 調達管理システム
+  - 就業管理システム
+- プロジェクトリーダーの役割を担うことが多い
+  - 顧客、PM、メンバーの緩衝材的な立ち回りを行い、案件を推進することが得意
+- 主言語はJava(Spring)、バックエンドより
+  - KISS原則、DRY原則など可読性／保守性を意識した書ける
+  - Godデザインパターンや関数型プログラムなどコード設計に関する基本的な知識あり
 ## 基本情報
-
 |key|value|
 |----|----|
 |Birth|1995|
 |Location|千葉県|
-|Education|地方駅弁の情報系学部|
+|Education|鳥取大学工学部知能情報工学化|
 
-## 経験技術
-**サーバサイド技術**
-* Java
-  * ~17 
-  * Struts
-  * SpringFramework
-  * Gradle
-* Node.js
+## SNS
+|Name|URL|
+|---|-----|
+|X|https://x.com/HanamaruDell|
+|Cosense|https://scrapbox.io/dellgreen/|
+|Qiita|https://qiita.com/DellGreen|
+|Note|https://note.com/dell_green|
+|Zenn|https://zenn.dev/dell_green|
 
-**フロントサイド技術**
-* JavaScript
-  * jQuery
-  * TypeScript
-  * React
-* HTML
-  * Thymeleaf
-  * Jade
-* CSS
-
-**DBMS**
-* Oracle
-* SQLSever
-* PosgreSQL
-
-**その他**
-* Docker
-* Python
-* VBA
+## スキル・経験
+[スキルリスト](/skills.md)
 
 ## 保有資格
-* 基本情報技術者試験
-* 応用情報技術者試験
-* SAP（AAFA　ERP6.0）
-* AWS CLF-02
-* AWS SAA-03
-* AWS DVA-02
-
+|資格|
+|-----|
+|基本情報技術者試験|
+|応用情報技術者試験|
+|AWS CLF|
+|AWS SAA|
+|AWS DVA|
+|SAP（AAFA　ERP6.0）|
+|(学習中)データベーススペシャリスト|
